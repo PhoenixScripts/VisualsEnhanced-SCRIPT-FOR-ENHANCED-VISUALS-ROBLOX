@@ -17,7 +17,7 @@ This script once executed deliverers unmatched visuals in Roblox. Sunrays, shado
 
 3. Xeno
 
-4. Delta (PC and Mobile)
+4. Delta (Mobile only executor)
 
 5. Seliware (cellware)
 
