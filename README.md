@@ -1,5 +1,5 @@
 # VisualsEnhanced-SCRIPT-FOR-ENHANCED-VISUALS-ROBLOX
-This script once executed deliverers unmatched visuals in Roblox. Sunrays, shadows, water droplets are all added and realistic! If you want a free, safe and reliable script for stunning visuals this is the one!
+This script once executed deliverers unmatched visuals in Roblox. Sunrays, shadows, water droplets are all added and realistic! If you want a free, safe and reliable script for stunning visuals this is the one! Paste the loadstring into your executor to run the script!
 
 ## FEATURES
 
