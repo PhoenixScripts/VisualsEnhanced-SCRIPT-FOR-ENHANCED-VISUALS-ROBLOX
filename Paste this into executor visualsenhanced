@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/PhoenixScripts/VisualsEnhanced-SCRIPT-FOR-ENHANCED-VISUALS-ROBLOX/refs/heads/main/VisualsEnhanced.lua()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PhoenixScripts/VisualsEnhanced-SCRIPT-FOR-ENHANCED-VISUALS-ROBLOX/refs/heads/main/Open%20source%20VisualsEnhanced.lua"))()
